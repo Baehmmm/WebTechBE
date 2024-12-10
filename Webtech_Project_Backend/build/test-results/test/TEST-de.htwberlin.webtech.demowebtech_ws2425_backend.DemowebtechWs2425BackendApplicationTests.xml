@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.htwberlin.webtech.demowebtech_ws2425_backend.DemowebtechWs2425BackendApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-31T14:46:37" hostname="LAPTOP" time="1.493">
+  <properties/>
+  <testcase name="contextLoads()" classname="de.htwberlin.webtech.demowebtech_ws2425_backend.DemowebtechWs2425BackendApplicationTests" time="1.493"/>
+  <system-out><![CDATA[15:46:34.826 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [de.htwberlin.webtech.demowebtech_ws2425_backend.DemowebtechWs2425BackendApplicationTests]: DemowebtechWs2425BackendApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:46:34.999 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration de.htwberlin.webtech.demowebtech_ws2425_backend.DemowebtechWs2425BackendApplication for test class de.htwberlin.webtech.demowebtech_ws2425_backend.DemowebtechWs2425BackendApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-31T15:46:35.525+01:00  INFO 14152 --- [demowebtech-ws2425-backend] [    Test worker] DemowebtechWs2425BackendApplicationTests : Starting DemowebtechWs2425BackendApplicationTests using Java 21.0.2 with PID 14152 (started by jimps in C:\Uni\Webtech_Project_Backend)
+2024-10-31T15:46:35.525+01:00  INFO 14152 --- [demowebtech-ws2425-backend] [    Test worker] DemowebtechWs2425BackendApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-10-31T15:46:37.350+01:00  INFO 14152 --- [demowebtech-ws2425-backend] [    Test worker] DemowebtechWs2425BackendApplicationTests : Started DemowebtechWs2425BackendApplicationTests in 2.168 seconds (process running for 3.797)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\jimps\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.14.19\154da3a65b4f4a909d3e5bdec55d1b2b4cbb6ce1\byte-buddy-agent-1.14.19.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
